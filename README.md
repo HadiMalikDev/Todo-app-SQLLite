@@ -1,16 +1,8 @@
-# todolistsqllite
+# Todo App SQLLite
 
-A new Flutter project.
+This is a todolist, featuring the use of SQLLite and the Provider package
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## A demo is shown below:
+https://user-images.githubusercontent.com/78081816/115223106-e2bf1400-a124-11eb-8295-53c497a2df3f.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
